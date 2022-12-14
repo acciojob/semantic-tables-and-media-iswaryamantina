@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+*{
+    margin:20px;
+}
+table,th,td{
+    border: 1px solid orange;
+    border-collapse: collapse;
+    padding:5px;
+}
